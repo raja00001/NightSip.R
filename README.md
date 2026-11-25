@@ -1,4 +1,3 @@
-# NightSip.R
 # NightSip — Your Night. Delivered Right.
 
 NightSip is a student academic prototype exploring a compliance-first platform concept for legally permitted late-night services. It is **not** a live retailer or delivery service.
